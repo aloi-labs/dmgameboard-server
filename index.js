@@ -17,7 +17,7 @@ const port = 4001;
  */
 let rooms = {};
 
-const FULL = 2; // max room size
+const FULL = 10; // max room size
 
 let count = 0; // count of connection
 
